@@ -1,6 +1,6 @@
 {
     "name": "brouwers/bbcodes",
-    "description": "Extendable and overwritable bbcodes for Laravel",
+    "description": "BBcodes for Laravel",
     "license": "BSD-3-Clause",
     "keywords": ["laravel", "bbcode", "shortcodes"],
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "brouwers/shortcodes": "~1.0.0"
+        "brouwers/shortcodes": "~1.0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
