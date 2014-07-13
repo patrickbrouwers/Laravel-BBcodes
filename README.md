@@ -38,3 +38,20 @@ $shortcode = App::make('bbcode');
 Laravel-BBcodes has been built on Laravel-Shortcodes. This means the rendering and registering is the same as that package. 
 
 You can read more about the usage at: https://github.com/patrickbrouwers/Laravel-Shortcodes
+
+## Bbcodes
+
+```
+- [b][/b]
+- [i][/i]
+- [u][/u]
+- [s][/s]
+- [font size="5" color="#333"][/font]
+- [center][/center]
+- [quote][/quote]
+- [url title="test]test[/url]
+- [url href="#]test[/url]
+- [img alt="test]test.jpg[/img]
+- [code][/code]
+- [youtube width="560" heght="315" frameborder="0" allowfullscreen="true"]00000000[/youtube]
+```
