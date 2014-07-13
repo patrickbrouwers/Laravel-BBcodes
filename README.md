@@ -7,6 +7,11 @@ BBcodes for Laravel
 [b]Bold text[/b]
 ```
 
+[![Build Status](https://travis-ci.org/Brouwers/Laravel-BBcodes.svg?branch=develop)](https://travis-ci.org/Brouwers/Laravel-BBcodes)
+[![Latest Stable Version](https://poser.pugx.org/brouwers/bbcodes/v/stable.png)](https://packagist.org/packages/brouwers/bbcodes) [![Total Downloads](https://poser.pugx.org/brouwers/bbcodes/downloads.png)](https://packagist.org/packages/brouwers/bbcodes)  [![License](https://poser.pugx.org/brouwers/bbcodes/license.png)](https://packagist.org/packages/brouwers/bbcodes)
+[![Monthly Downloads](https://poser.pugx.org/brouwers/bbcodes/d/monthly.png)](https://packagist.org/packages/brouwers/bbcodes)
+[![Daily Downloads](https://poser.pugx.org/brouwers/bbcodes/d/daily.png)](https://packagist.org/packages/brouwers/bbcodes)
+
 #Installation
 
 Require this package in your `composer.json` and update composer.
