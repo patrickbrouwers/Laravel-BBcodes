@@ -1,0 +1,35 @@
+{
+    "name": "brouwers/bbcodes",
+    "description": "Extendable and overwritable bbcodes for Laravel",
+    "license": "BSD-3-Clause",
+    "keywords": ["laravel", "bbcode", "shortcodes"],
+    "authors": [
+        {
+            "name": "Patrick Brouwers",
+            "email": "patrickbrouwers@live.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "brouwers/shortcodes": "~1.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0",
+        "mockery/mockery": "~0.9",
+        "orchestra/testbench": "~2.2.0@dev"
+    },
+    "autoload": {
+        "classmap": [
+            "tests/BbcodeTestCase.php"
+        ],
+        "psr-0": {
+            "Brouwers\\Bbcodes": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git://github.com/orchestral/phpseclib.git"
+        }
+    ]
+}
